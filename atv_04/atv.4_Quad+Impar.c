@@ -6,7 +6,7 @@ int main(){
     system("cls");
 
     int n, i, quad = 0, impar = 1;
-    printf("Digite um numero para descobrir seu valor elevado ao quadrado: ");
+    printf("Digite um numero para descobrir seu valor elevado ao quadrado atraves da soma de seus impares: ");
     scanf("%d", &n);
 
     printf("\nSoma dos impares: 1");

@@ -1,9 +1,11 @@
 #include <stdio.h>
+#include <stdlib.h>
+
 int main(){
 
     float peso, altura, imc;
 
-    //system("cls");
+    system("cls");
     //limpa tela do terminal windows
 
     printf("Digite seu peso: ");

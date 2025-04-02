@@ -1,6 +1,10 @@
 #include <stdio.h>
+#include <stdlib.h>
 #define pi 3.1415
+
 int main(){
+
+    system("cls");
 
     float raio, area, perimetro;
     

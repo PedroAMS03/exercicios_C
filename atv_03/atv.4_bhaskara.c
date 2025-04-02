@@ -32,7 +32,7 @@ int main(){
 
     } else { //nao ha raizes reais
 
-        printf("\nNão há raízes reais.");
+        printf("\nNao ha raizes reais.");
 
     }
 

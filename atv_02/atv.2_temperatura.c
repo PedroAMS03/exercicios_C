@@ -1,6 +1,10 @@
 #include <stdio.h>
+#include <stdlib.h>
+
 int main(){
 
+    system("cls");
+    
     float tempFar, tempCel;
 
     printf("Digite a temperatura em Fahrenheit: ");
